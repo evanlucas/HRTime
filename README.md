@@ -1,5 +1,7 @@
 # HRTime
 
+[![Build Status](https://travis-ci.org/evanlucas/HRTime.svg)](https://travis-ci.org/evanlucas/HRTime)
+
 An attempt at a high resolution timer for swift.
 
 ## Example
